@@ -3,7 +3,7 @@ Este ejercicio consiste en la maquetación de un QR Code
 ![](./images/qrcode.png)
 
 
-Live Site URL: [http://127.0.0.1:5500/qr-code-component-main/index.html](http://127.0.0.1:5500/qr-code-component-main/index.html)
+Live Site URL: [https://carmenyo.github.io/QRCodeComponent-FrontendMentor/]
 
 Construido con:
 - Semantic HTML5 markup
