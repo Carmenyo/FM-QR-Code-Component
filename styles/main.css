@@ -6,6 +6,14 @@
 --font-family: Outfit;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
 .main {
 display: flex;
 flex-direction:column;
