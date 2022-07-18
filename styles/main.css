@@ -23,7 +23,7 @@ body{
 
 .main {
 width: 86%; 
-max-width: 30rem;
+max-width: 20rem;
 background-color: var(--White);
 border-radius: 2rem;
 padding: 1rem;
