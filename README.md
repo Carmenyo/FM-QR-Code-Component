@@ -1,4 +1,6 @@
 Pureref.com
+BEM
+Mobile First
 
 Este ejercicio consiste en la maquetación de un QR Code
 
