@@ -1,3 +1,5 @@
+Pureref.com
+
 Este ejercicio consiste en la maquetación de un QR Code
 
 ![](./images/qrcode.png)
