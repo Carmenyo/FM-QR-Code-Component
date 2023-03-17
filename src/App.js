@@ -5,11 +5,7 @@ function App() {
   return (
     <body className="App">
       <main className="body">
-
-
         <Card/>
-       
-      
       </main>
     </body>
   );

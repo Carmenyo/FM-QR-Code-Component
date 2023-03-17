@@ -1,6 +1,6 @@
 {
   "name": "nombre-del-proyecto",
-  "homepage":"./",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "2.8.4"
   }
 }

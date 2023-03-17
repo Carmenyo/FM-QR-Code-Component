@@ -4,6 +4,7 @@ import "../styles/layout/_card.scss"
 
 const Card = () => {
     return (
+      <div className="container">
       <section className="main">
        
       <img
@@ -20,6 +21,7 @@ const Card = () => {
       </p>
       
     </section>
+    </div>
     )
 }
 
