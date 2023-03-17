@@ -3,11 +3,11 @@ import Card from "./components/Card"
 
 function App() {
   return (
-    <body className="App">
+    <div className="App">
       <main className="body">
         <Card/>
       </main>
-    </body>
+    </div>
   );
 }
 
