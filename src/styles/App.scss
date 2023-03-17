@@ -1,0 +1,16 @@
+@import "./core/variables";
+@import "./core/reset";
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+background-color: $Light-gray;
+display: flex;
+justify-content: center;
+}
