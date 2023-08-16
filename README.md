@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component solution
 A simple QR code card project built using React, HTML5, and CSS3. This project focuses on creating a card that displays a QR code, helping you practice React's file structure and component usage. The card showcases a QR code and offers an opportunity to further develop your skills in front-end development.
 
-[QR code component challenge on Frontend Mentor](./src/images/imageProjectFinish.png). 
+[QR code component challenge on Frontend Mentor](./React-App.png). 
 
 ## Features
 
